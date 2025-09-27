@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ABHIRANJAN-KUMAR1/capstone-project/static/css/main.e6c13ad2.css",
+    "main.js": "/ABHIRANJAN-KUMAR1/capstone-project/static/js/main.eae27832.js",
+    "static/js/453.a797a6e4.chunk.js": "/ABHIRANJAN-KUMAR1/capstone-project/static/js/453.a797a6e4.chunk.js",
+    "index.html": "/ABHIRANJAN-KUMAR1/capstone-project/index.html",
+    "main.e6c13ad2.css.map": "/ABHIRANJAN-KUMAR1/capstone-project/static/css/main.e6c13ad2.css.map",
+    "main.eae27832.js.map": "/ABHIRANJAN-KUMAR1/capstone-project/static/js/main.eae27832.js.map",
+    "453.a797a6e4.chunk.js.map": "/ABHIRANJAN-KUMAR1/capstone-project/static/js/453.a797a6e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.eae27832.js"
+  ]
+}
