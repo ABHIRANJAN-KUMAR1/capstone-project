@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## License
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
+
 In the project directory, you can run:
 
 ### `npm start`
